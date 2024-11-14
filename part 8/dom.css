@@ -1,0 +1,24 @@
+body {
+    background-color: #1a1a1a;
+    color:#a83e3e;
+    text-align:center;
+}
+
+
+.highlight{
+    background-color: yellow;
+    font-weight: bold;
+    color:#1a1a1a;
+}
+.hidden{
+    display: none;
+}
+#btn1{
+    /* border:yellow; */
+    background-color: #7eadeb;
+    color:#e00e0e;
+}
+#btn1:hover{
+    background-color: #e00e0e;
+    color:#0b6ceb;
+}
