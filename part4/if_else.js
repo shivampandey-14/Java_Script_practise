@@ -45,3 +45,12 @@ if (typeof (isloggedin) == "boolean") {
 else {
     console.log("isloggedin is not a boolean")
 }
+//checking the length of array.
+let heroes = ['superman', 'batman', 'spiderman', 'thor']
+let x = heroes.length
+if(x>4){
+    console.log("array is greater than 4")
+}
+else{
+    console.log("array is less than 4")
+}
